@@ -43,7 +43,7 @@
     "react-helmet": "5.x.x",
     "redux": "3.x.x",
     "slug": "0.9.x",
-    "uuid": "3.x.x",
+    "uuid": "3.4.0",
     "vision": "4.x.x",
     "visionary": "6.x.x"
   },
