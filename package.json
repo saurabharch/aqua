@@ -21,7 +21,7 @@
     "bcrypt": "1.x.x",
     "boom": "5.x.x",
     "classnames": "2.x.x",
-    "confidence": "3.x.x",
+    "confidence": "5.0.1",
     "crumb": "6.x.x",
     "dotenv": "4.x.x",
     "escape-string-regexp": "1.x.x",
